@@ -1,6 +1,6 @@
 # arduino-Termômetro
 
-Esse é um projeto feito por Amanda Castro de Melo, estudante do terceiro ano do ensino médio técnico em informática e com um curso extracurricular de arduino, fornecido pela própria instituição de ensino Senac Sorocaba no ano de 2022.
+Esse é um projeto feito por Amanda Castro de Melo e Thayná Santos Rosa, estudantes do terceiro ano do ensino médio técnico em informática e com um curso extracurricular de arduino, fornecido pela própria instituição de ensino Senac Sorocaba no ano de 2022.
 
 <hr>
 
@@ -13,7 +13,7 @@ O termômetro de arduino basicamente funciona como um termômetro digital a onde
 
  <hr>
  
- Circuito
+ # Circuito
  
  ![Termômetro-arduino](https://user-images.githubusercontent.com/112094909/204887536-79e20418-e05f-4d61-a689-c8c3c1c6526c.PNG)
 
